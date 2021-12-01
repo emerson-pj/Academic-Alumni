@@ -15,6 +15,11 @@ A web application that can be maintain as a **social web** for alumni of an acad
 ## Limitation
 1. Chat with friend is not available in the system
 
+## Versions
+1. PHP 5.5.12
+2. Mysql 5.6.17
+3. phpMyAdmin version 4.1.14
+
 
 # Social Web Academic Alumni
 Um aplicativo da web que pode ser mantido como uma **web social** para ex-alunos de um instituto acadêmico.
@@ -32,3 +37,8 @@ Um aplicativo da web que pode ser mantido como uma **web social** para ex-alunos
 
 ## Limitação
 1. O bate-papo com o amigo não está disponível no sistema
+
+## Versões
+1. PHP 5.5.12
+2. Mysql 5.6.17
+3. phpMyAdmin version 4.1.14
